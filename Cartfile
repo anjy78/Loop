@@ -5,3 +5,5 @@ github "kdisimone/dexcom-share-client-swift" "override-mode"
 github "kdisimone/G4ShareSpy" "override-mode"
 github "kdisimone/rileylink_ios" "override-mode"
 github "LoopKit/Amplitude-iOS" "decreepify"
+github "kdisimone/spike-client-swift" "override-mode-spike"
+
